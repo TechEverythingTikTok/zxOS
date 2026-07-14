@@ -4,6 +4,13 @@
     Parent: Ring0
     Exported: 2026-07-14 13:31:45
 ]]
+
+--[[
+AUTHOR: 
+
+Discord: itsaxgam
+Roblox: Alexandru2201913
+]]
 local PM = {}
 
 local CoreLang = require(script.CoreLang)
